@@ -1,0 +1,8 @@
+{
+    "service_title": "Demo Service",
+    "service_description": "Demo service description",
+    "service_image": "https://google.com/xyz",
+    "service_tagline": "Demo Service Tagline",
+    "service_category":"Demo Service Category",
+    "service_bookings": 2
+}
